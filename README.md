@@ -11,10 +11,10 @@ Deploy a Node.js server to AWS EC2.
 ## Deployed Servers
 
 - GUI Deploy:
-  [Link](Aws-web-server-new-env.eba-zwp4xyta.us-west-2.elasticbeanstalk.com)
+  [Link](http://aws-web-server-new-env.eba-zwp4xyta.us-west-2.elasticbeanstalk.com/bikes)
 
 - CLI Deploy:
-  [Link](http://aws-web-server-cli-env.eba-ndjsgukz.us-west-2.elasticbeanstalk.com)
+  [Link](http://aws-web-server-cli-env.eba-ndjsgukz.us-west-2.elasticbeanstalk.com/bikes)
 
 ## Process
 
